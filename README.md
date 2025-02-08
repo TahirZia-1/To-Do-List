@@ -1,4 +1,4 @@
-# Todo Application
+# To-do List Application
 
 A full-stack todo application built with React and Node.js.
 
